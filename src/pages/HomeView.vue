@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <el-card id="me" style="max-width: 480px" shadow="hover">
-      <el-avatar src="public/favicon.ico" />
+      <el-avatar src="favicon.ico" />
       <h1>xiaole233的云上乐土</h1>
       <p>计算，为了不可计算的<span class="point">价值</span></p>
       <p>编码，为了未曾编码的<span class="point">灵感</span></p>
